@@ -76,7 +76,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: '橘子',
+    author: 'ub3rb3457',
     authorAvatar: 'https://photo.smallsunnyfox.com/images/blog/head.png',
     // 备案号
     record: '豫ICP备19035192号',
@@ -84,13 +84,14 @@ module.exports = {
     cyberSecurityRecord: '豫公网安备41172602000151号',
     cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41172602000151',
     // 项目开始时间
-    startYear: '2019',
+    startYear: '2021',
     /**
      * valine 设置 (if you need valine comment )
      */
     valineConfig: {
       appId: 'VN3rWImbqSchxOJq0kgrniA6-MdYXbMMI', // your appId
       appKey: 'FsrrtteiCkaSpgg6R52RXr7h', // your appKey
+      lang:'en',
       placeholder: '',
       avatar: 'wavatar',
       serverUrl: 'https://vn3rwimb.api.lncldglobal.com'
@@ -147,8 +148,8 @@ module.exports = {
       {
         serviceWorker: true,
         updatePopup: {
-          message: '发现新内容可用',
-          buttonText: '刷新'
+          message: 'New content is available.',
+          buttonText: 'Refresh'
         }
       }
     ],
