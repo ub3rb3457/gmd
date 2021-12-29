@@ -89,11 +89,11 @@ module.exports = {
      * valine 设置 (if you need valine comment )
      */
     valineConfig: {
-      appId: 'XDwlSXS2pD137bPrPpwQaqqD-gzGzoHsz', // your appId
-      appKey: 'CQ8FKrMUP76LwycPcKlDoRqV', // your appKey
-      placeholder: '是时候展现真正的技术了',
+      appId: 'VN3rWImbqSchxOJq0kgrniA6-MdYXbMMI', // your appId
+      appKey: 'FsrrtteiCkaSpgg6R52RXr7h', // your appKey
+      placeholder: '',
       avatar: 'wavatar',
-      serverUrl: 'https://leanserver.smallsunnyfox.com'
+      serverUrl: 'https://vn3rwimb.api.lncldglobal.com'
     }
   },
   markdown: {
