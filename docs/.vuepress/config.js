@@ -101,7 +101,7 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
-    /* [
+     [
       require('./plugins/KanBanNiang'),
       {
         theme: ['blackCat'],
