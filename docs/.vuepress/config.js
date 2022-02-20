@@ -123,7 +123,7 @@ module.exports = {
           right: '80px'
         }
       }
-    ], */
+    ], 
     [
       require('./plugins/BgMusic'),
       {
